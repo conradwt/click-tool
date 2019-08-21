@@ -6,7 +6,7 @@ This app powers ToolCLick located [here](https://tool-click.herokuapp.com/)
 
 ## Project Metrics
 
-[![Maintainability](https://api.codeclimate.com/v1/badges/806f25fe32310d1648a9/maintainability)](https://codeclimate.com/github/conradwt/tool-click/maintainability) [![Test Coverage](https://api.codeclimate.com/v1/badges/806f25fe32310d1648a9/test_coverage)](https://codeclimate.com/github/conradwt/tool-click/test_coverage)
+[![Maintainability](https://api.codeclimate.com/v1/badges/13bd944eb2dec4a5ef04/maintainability)](https://codeclimate.com/github/conradwt/tool-click/maintainability) [![Test Coverage](https://api.codeclimate.com/v1/badges/13bd944eb2dec4a5ef04/test_coverage)](https://codeclimate.com/github/conradwt/tool-click/test_coverage)
 
 ## Getting Started
 
