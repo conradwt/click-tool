@@ -79,5 +79,5 @@ test:
 production:
   <<: *default
   database: tool_click_production
-  username: tool_click
-  password: <%= ENV['TOOL_CLICK_DATABASE_PASSWORD'] %>
+#  username: tool_click
+#  password: <%= ENV['TOOL_CLICK_DATABASE_PASSWORD'] %>
