@@ -25,7 +25,12 @@ gem 'uglifier',                 '>= 1.3.0'
 
 gem 'devise',                   '~>4.7.0'
 
-gem 'popper_js', '~> 1.14.5'
+gem 'popper_js',                '~> 1.14.5'
+
+gem 'activeadmin',              '~> 2.2.0'
+gem 'cancancan',                '~> 3.0', '>= 3.0.1'
+gem 'draper',                   '~> 3.1'
+gem 'pundit',                   '~> 2.1'
 
 group :development, :test do
   gem 'byebug',                 platforms: %i[mri mingw x64_mingw]
