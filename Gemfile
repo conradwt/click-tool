@@ -23,7 +23,7 @@ gem 'turbolinks',               '~> 5'
 
 gem 'uglifier',                 '>= 1.3.0'
 
-gem 'devise'
+gem 'devise',                   '~>4.7.0'
 
 gem 'popper_js', '~> 1.14.5'
 
@@ -32,7 +32,7 @@ group :development, :test do
 
   gem 'capybara',               '~> 3.26'
 
-  gem 'factory_bot_rails'
+  gem 'factory_bot_rails',      '~> 4.8.2'
 
   gem 'rspec-rails',            '~> 3.8', '>= 3.8.2'
 end
@@ -40,7 +40,7 @@ end
 group :development do
   gem 'listen',                 '>= 3.0.5', '< 3.2'
 
-  gem 'spring'
+  gem 'spring',                 '~>2.1.0'
   gem 'spring-watcher-listen',  '~> 2.0.0'
 
   gem 'web-console',            '>= 3.3.0'
