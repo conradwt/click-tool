@@ -7,8 +7,12 @@ ruby '2.6.3'
 
 gem 'rails',                    '~> 5.2.3'
 
+gem 'activeadmin',              '~> 2.2'
+
 gem 'bootsnap',                 '>= 1.1.0', require: false
 gem 'bootstrap',                '~> 4.3', '>= 4.3.1'
+
+gem 'devise',                   '~> 4.7'
 
 gem 'jquery-rails',             '~> 4.3', '>= 4.3.5'
 
@@ -28,7 +32,7 @@ group :development, :test do
 
   gem 'capybara',               '~> 3.26'
 
-  gem 'factory_bot',            '~> 5.0', '>= 5.0.2'
+  gem 'factory_bot_rails',      '~> 5.0', '>= 5.0.2'
 
   gem 'rspec-rails',            '~> 3.8', '>= 3.8.2'
 end
